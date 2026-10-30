@@ -5,7 +5,7 @@
 ### Hi, I'm Tom.
 
 I build AI systems that companies actually run on: agentic workspaces, voice-to-text and knowledge infrastructure.
-Managing Director of **[Subunit](https://github.com/Subunit-UG)**, based in Teltow near Berlin.
+Managing Director of **[Subunit](https://github.com/Subunit-UG)**, based in Hamburg.
 
 Most of my work lives in private repositories at [Subunit-UG](https://github.com/Subunit-UG). This page is the window into it.
 
